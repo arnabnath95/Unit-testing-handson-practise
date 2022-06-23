@@ -63,7 +63,7 @@ export class LoanEMIDetails extends LocalizeMixin(LitElement) {
     //   if(this.data !== undefined){
     //     this._data=[...this.data];
     // }
-    // console.log(this._data);
+    //console.log(this._data);
 
     return html`
       <div>
